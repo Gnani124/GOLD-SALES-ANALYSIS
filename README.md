@@ -15,4 +15,6 @@ Key Highlights:
 
 This dashboard empowers stakeholders to make data-driven decisions by highlighting sales trends, regional contributions, and customer payment preferences.
 
-#PowerBI #DataAnalytics #DashboardDesign #GoldSales #BusinessIntelligence #DataVisualization #FinanceAnalytics #SalesInsights
+#PowerBI #DataAnalytics #Dashb[Uploading Gold_Sales_India.csv…]()
+oardDesign #GoldSales #BusinessIntelligence #DataVisualization #FinanceAnalytics #SalesInsights
+![Screenshot 2025-04-14 101344](https://github.com/user-attachments/assets/8588da32-7812-4da0-9cd6-e2c78ef39914)
